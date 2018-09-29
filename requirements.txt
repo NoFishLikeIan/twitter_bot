@@ -1,0 +1,15 @@
+certifi==2018.8.24
+chardet==3.0.4
+get==1.0.3
+idna==2.7
+oauthlib==2.1.0
+post==1.0.2
+public==1.0.3
+PySocks==1.6.8
+query-string==1.0.2
+request==1.0.2
+requests==2.19.1
+requests-oauthlib==1.0.0
+six==1.11.0
+tweepy==3.6.0
+urllib3==1.23
