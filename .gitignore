@@ -106,3 +106,4 @@ venv.bak/
 # My packages that should not be on git
 
 src/api.py
+model/
